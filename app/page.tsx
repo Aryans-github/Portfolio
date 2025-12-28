@@ -301,7 +301,7 @@ export default function Portfolio() {
                 <Linkedin className="h-6 w-6" />
               </a>
               <a
-                href="mailto:aryan@example.com"
+                href="mailto:aryanjumde2004@gmail.com"
                 className="p-3 rounded-full hover:bg-gray-100 transition-colors"
                 aria-label="Email"
               >
