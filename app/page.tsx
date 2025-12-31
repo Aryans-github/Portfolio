@@ -59,7 +59,7 @@ export default function Portfolio() {
               <a href="#projects">View My Work</a>
             </Button>
             <Button asChild variant="outline" size="lg">
-              <a href="https://drive.google.com/file/d/1gb_oZYAEwpydxHPB3FByN_fvM5O-UsIp/view?usp=sharing" download>
+              <a href="https://drive.google.com/file/d/1pctAsjXLMiF6uGfLs-y1oO3JgftBU_Q2/view?usp=sharing" download>
                 <Download className="mr-2 h-4 w-4" />
                 Download Resume
               </a>
